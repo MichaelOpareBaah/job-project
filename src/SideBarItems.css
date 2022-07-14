@@ -1,0 +1,41 @@
+.sidebar ul{
+    background: #1b1b1b;
+    list-style: none;
+}
+
+
+
+.list__link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    
+}
+
+.sidebar ul li{
+    margin-bottom: 20px;
+    padding-left: 7px;
+    
+    
+    
+}
+
+.icons__styles {
+    
+    background: #800000;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid white;
+ 
+    
+}
+
+.select__show {
+    text-decoration: none;
+    font-size: 17px;
+    color: #800000;
+    
+}
+
+
+

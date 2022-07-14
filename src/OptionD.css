@@ -1,0 +1,25 @@
+.optiond {
+    width: 80%;
+    background-color: white;
+    position: relative;
+}
+
+
+p{
+    color: black;
+    margin-top: 20px;
+}
+
+.pdf__btn {
+    background-color: black;
+    cursor: pointer;
+    position: absolute;
+  top: 8px;
+  right: 16px;
+  padding: 10px;
+    
+}
+
+.content {
+    margin-top: 60px;
+}
